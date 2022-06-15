@@ -3,7 +3,9 @@
 
 The following are files for the technical test for data science version B
 
-To run each file just write python or python3 and the name of the file.py
+To run each file just write python or python3 and the name of the file.py. 
+Some files require specific libraries (pandas, matplotlib, sklearn). In the installation there
+are instructions to perform the installation
 
 ## Installation
 ***
